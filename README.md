@@ -1,2 +1,2 @@
 # MyWebsite
-my websie
+my website
