@@ -3,7 +3,7 @@
 
 Welcome to the repository for my personal portfolio website! This site is designed to showcase my software engineering projects, technical skills, and my ongoing journey in the ICT industry as a student at the University of Mpumalanga.
 
-🔗 **Live Website Link:** [View My Live Portfolio Here](https://owethu-dev145.github.io/MyWebsite/)
+🔗 **Live Website Link:** [View My Live Portfolio Here](https://owethu-dev145.github.io/my-website-/)
 
 ---
 
